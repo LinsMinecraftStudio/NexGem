@@ -1,0 +1,4 @@
+name: NexGem
+version: '${project.version}'
+main: org.lins.mmmjjkx.nexgem.NexGem
+api-version: '1.19'

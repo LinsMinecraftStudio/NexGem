@@ -1,0 +1,4 @@
+Gem:
+  AttackGem:
+    MaxLevel: 5
+    Multiplier: 3
