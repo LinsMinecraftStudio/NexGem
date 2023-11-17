@@ -36,6 +36,7 @@ public abstract class NGem {
     }
 
     public void setLevel(int level) {
+        level = Integer.parseInt(Integer.toUnsignedString(level));
         if (level > maxLevel()) {
             this.level = maxLevel();
             return;

@@ -5,3 +5,5 @@ Gem:
     Useless:
       - "&7This is a useless gem"
       - "&7It doesn't like gem at all, it just looks like a pebble"
+GUI:
+  AttributeGemManagementTitle: "&aManage Attribute Gem"
